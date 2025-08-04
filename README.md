@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Aman
+# 👋 Hi there, I'm Aman Kishore!!✨
 
-I'm a Computer Science Engineering student passionate about 🤖 Artificial Intelligence, 📊 Machine Learning, and 📈 Data Science. I enjoy building real-world projects and sharing my learning journey with the community.
+I'm a Computer Science Engineering student and currently working on 🤖 Artificial Intelligence, 📊 Machine Learning, and 📈 Data Science. I enjoy building real-world projects and sharing my learning journey with the community.
 
 ---
 
@@ -8,7 +8,7 @@ I'm a Computer Science Engineering student passionate about 🤖 Artificial Inte
 
 - 💯 100 Days of Machine Learning Practice: A daily hands-on challenge to build, code, and understand core ML concepts  
 - 🏠 House Price Predictor: A complete ML pipeline for predicting house prices using the California Housing dataset  
-- 🧠 Exploring NLP, Deep Learning, and Model Deployment
+- 🧠 Exploring NLP, Deep Learning, and Model Deployment and working on many other Projects
 
 ---
 
@@ -33,7 +33,7 @@ I'm a Computer Science Engineering student passionate about 🤖 Artificial Inte
 ## 📫 Let's Connect
 
 - 🔗 LinkedIn: [https://www.linkedin.com/in/aman-kishore-145b47306/](https://www.linkedin.com/in/aman-kishore-145b47306/)  
-- 📧 Email: your.email@example.com
+- 📧 Email: amankshr2508@gmail.com
 
 Thanks for visiting my GitHub! Feel free to explore my repositories or reach out to collaborate on a project.
 
