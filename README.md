@@ -1,53 +1,67 @@
-# 👋 Hi there, I'm Aman Kishore!!✨
+<h1 align="center">👋 Hi there, I'm Aman Kishore!! ✨</h1>
 
-I'm a Computer Science Engineering student and currently working on 🤖 Artificial Intelligence, 📊 Machine Learning, and 📈 Data Science. I enjoy building real-world projects and sharing my learning journey with the community.
+<p align="center">
+  🚀 CSE Student | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer <br>
+  I love building real-world projects and sharing my journey with the community.
+</p>
 
 ---
 
 ## 🚀 What I'm Working On
-
-- 💯 100 Days of Machine Learning Practice: A daily hands-on challenge to build, code, and understand core ML concepts  
-- 🏠 House Price Predictor: A complete ML pipeline for predicting house prices using the California Housing dataset  
-- 🧠 Exploring NLP, Deep Learning, and Model Deployment and working on many other Projects
+- 💯 **100 Days of Machine Learning Practice** – building and coding core ML concepts daily  
+- 💯 **100 Days of Deep Learning** – currently diving deep into:
+  - ✔️ Perceptron  
+  - ✔️ Artificial Neural Networks (ANNs)  
+  - ✔️ Optimizers like SGD, Adam  
+- 🏠 **House Price Predictor** – a complete ML pipeline using the California Housing dataset  
+- 🧠 Exploring **NLP**, **Deep Learning**, and **Model Deployment**  
+- 💡 Working on many more exciting AI projects...
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- 🐍 Python  
-- 💻 C, C++  
-- 📊 R (Basic)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
+</p>
 
-### 🧰 Tools & Frameworks
-- 🧪 scikit-learn, NumPy, Pandas  
-- 📈 Matplotlib, Seaborn, Plotly  
-- 🧠 TensorFlow, Keras  
-- 🐳 Docker  
-- 🧠 Jupyter Notebook, Google Colab  
-- 🔧 Git, GitHub  
-- 🖥️ Visual Studio Code
+### 📚 Libraries & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
+</p>
+
+### 📊 Data Visualization
+<p>
+  <img src="https://img.shields.io/badge/Matplotlib-3C5280?logo=matplotlib&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-3C5280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Plotly-3C3C3C?logo=plotly&logoColor=white&style=for-the-badge" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?logo=googlecolab&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
 ## 📫 Let's Connect
-
-- 🔗 LinkedIn: [https://www.linkedin.com/in/aman-kishore-145b47306/](https://www.linkedin.com/in/aman-kishore-145b47306/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aman-kishore-145b47306/)
 - 📧 Email: amankshr2508@gmail.com
 
-Thanks for visiting my GitHub! Feel free to explore my repositories or reach out to collaborate on a project.
+---
 
-<!--
-**imamankishore/imamankishore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ **Thanks for visiting my GitHub!**  
+Feel free to explore my repositories or reach out to collaborate on a project!
