@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 What I'm Working On
-- 💯 **100 Days of Machine Learning Practice** – building and coding core ML concepts daily  
+- 💯 **120 Days of Machine Learning Practice** – building and coding core ML concepts daily  
 - 💯 **100 Days of Deep Learning** – currently diving deep into:
   - ✔️ Perceptron  
   - ✔️ Artificial Neural Networks (ANNs)  
