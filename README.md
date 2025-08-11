@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi there, I'm Aman Kishore!! ✨</h1>
 
 <p align="center">
-  🚀 CSE Student | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer <br>
+  🚀 CSE Student | 🤖 AI/ML Engineer | 📊 Data Scientist <br>
   I love building real-world projects and sharing my journey with the community.
 </p>
 
