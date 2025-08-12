@@ -2,7 +2,7 @@
 
 <p align="center">
   🚀 CSE Student | 🤖 AI/ML Engineer | 📊 Data Scientist <br>
-  I love building real-world projects and sharing my journey with the community..
+  I love building real-world projects and sharing my journey with the community...
 </p>
 
 ---
