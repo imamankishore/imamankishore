@@ -10,10 +10,6 @@
 ## 🚀 What I'm Working On
 - 💯 **120 Days of Machine Learning Practice** – building and coding core ML concepts daily  
 - 💯 **100 Days of Deep Learning** – currently diving deep into:
-  - ✔️ Perceptron  
-  - ✔️ Artificial Neural Networks (ANNs)  
-  - ✔️ Optimizers like SGD, Adam  
-- 🏠 **House Price Predictor** – a complete ML pipeline using the California Housing dataset  
 - 🧠 Exploring **NLP**, **Deep Learning**, and **Model Deployment**  
 - 💡 Working on many more exciting AI projects...
 
