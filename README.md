@@ -8,10 +8,10 @@
 ---
 
 ## 🚀 What I'm Working On
-- 💯 **120 Days of Machine Learning Practice** – building and coding core ML concepts daily  
-- 💯 **100 Days of Deep Learning** – currently diving deep into:
+- 💯 **120 Days of Machine Learning Practice** – building and coding core ML concepts daily..
+- 💯 **100 Days of Deep Learning** – currently diving deep into..
 - 🧠 Exploring **NLP**, **Deep Learning**, and **Model Deployment**  
-- 💡 Working on many more exciting AI projects...
+- 💡 Working on many more exciting AI projects..
 
 ---
 
