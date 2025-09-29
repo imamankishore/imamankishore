@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there, I'm Aman Kishore!!✨</h1>
+<h1 align="center"> Hi there, I'm Aman Kishore!!✨</h1>
 
 <p align="center">
    CSE Student |  AI/ML Engineer |  Data Scientist <br>
@@ -53,7 +53,7 @@
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aman-kishore-145b47306/)
 - 📧 Email: amankshr2508@gmail.com
 
